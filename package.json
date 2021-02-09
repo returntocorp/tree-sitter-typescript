@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "tree-sitter-cli": "^0.17.3",
-    "tree-sitter-javascript": "github:tree-sitter/tree-sitter-javascript#3f8b62f"
+    "tree-sitter-javascript": "github:returntocorp/tree-sitter-javascript#13ec71b"
   },
   "scripts": {
     "build": "npm run build-typescript && npm run build-tsx",
